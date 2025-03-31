@@ -1,0 +1,3 @@
+🔹 NACLs vs. Security Groups: NACLs are stateless; must configure both inbound/outbound rules.
+🔹 Peering Connections: Require explicit route table entries in both VPCs.
+🔹 IAM Least Privilege: Critical for Flow Logs to avoid over-permissive policies.
