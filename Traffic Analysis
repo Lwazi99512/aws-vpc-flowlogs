@@ -1,0 +1,5 @@
+Ran CloudWatch Insights queries to identify:
+
+Top 10 IP pairs by data transfer volume
+
+REJECTED traffic sources (e.g., 78.128.114.78 → 10.1.11.0)
