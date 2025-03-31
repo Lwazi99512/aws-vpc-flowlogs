@@ -1,0 +1,4 @@
+## 🚀 **How to Replicate**  
+1. Clone this repo  
+2. Deploy `iam-policy.json` in your AWS account  
+3. Follow the [step-by-step guide in README](README.md#step-by-step-implementation)  
